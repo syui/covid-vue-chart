@@ -10,12 +10,10 @@
   "dependencies": {
     "apexcharts": "^3.18.1",
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-apexcharts": "^1.5.3",
-    "vue-axios": "^2.1.5",
-    "vue-chartjs": "^3.5.0"
+    "vue-axios": "^2.1.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",

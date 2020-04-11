@@ -1,8 +1,8 @@
-# vue-covid19
+# covid-vue-chart
 
-https://github.com/pomber/covid19/
+example : vue + apexcharts + axios
 
-https://raw.githubusercontent.com/pomber/covid19/master/docs/timeseries.json
+json : https://github.com/pomber/covid19/, https://raw.githubusercontent.com/pomber/covid19/master/docs/timeseries.json
 
 ## Project setup
 ```
@@ -25,4 +25,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
