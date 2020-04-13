@@ -1,6 +1,6 @@
 {
-  "name": "vue-covid19",
-  "version": "0.1.0",
+  "name": "covid-vue-chart",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

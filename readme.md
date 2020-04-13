@@ -2,7 +2,12 @@
 
 example : vue + apexcharts + axios
 
-json : https://github.com/pomber/covid19/, https://raw.githubusercontent.com/pomber/covid19/master/docs/timeseries.json
+date : https://github.com/pomber/covid19/ ,
+     https://raw.githubusercontent.com/pomber/covid19/master/docs/timeseries.json
+
+```sh
+$ curl -sL https://raw.githubusercontent.com/pomber/covid19/master/docs/timeseries.json|jq ".|keys"
+```
 
 ## Project setup
 ```
